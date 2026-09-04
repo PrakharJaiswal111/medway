@@ -1,0 +1,12 @@
+{
+  "name": "medway-main",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix medway-main/project run dev",
+    "build": "npm --prefix medway-main/project run build",
+    "preview": "npm --prefix medway-main/project run preview",
+    "lint": "npm --prefix medway-main/project run lint",
+    "typecheck": "npm --prefix medway-main/project run typecheck",
+    "install:app": "npm install --prefix medway-main/project"
+  }
+}
