@@ -1,0 +1,38 @@
+{
+  "hospitals": [
+    {"id": "hr-1", "hospitalId": "healthworld", "patient": "Priya Banerjee", "rating": 5, "text": "Clean OPD and the cardiology wing was well organised. Staff explained every step.", "visitedOn": "18 Aug 2026", "visited": true},
+    {"id": "hr-2", "hospitalId": "healthworld", "patient": "Aarav Menon", "rating": 5, "text": "Reached from Benachity in 10 minutes. Billing was transparent.", "visitedOn": "2 Aug 2026", "visited": true},
+    {"id": "hr-3", "hospitalId": "mission", "patient": "Kabir Nair", "rating": 4, "text": "Excellent ICU reputation. Parking was tight during evening OPD.", "visitedOn": "21 Jul 2026", "visited": true},
+    {"id": "hr-4", "hospitalId": "disha", "patient": "Meera Shah", "rating": 5, "text": "Cataract work-up was same day. Very professional eye hospital.", "visitedOn": "9 Aug 2026", "visited": true},
+    {"id": "hr-5", "hospitalId": "citycare", "patient": "Ishita Rao", "rating": 4, "text": "Nearby and affordable. Wait was a bit longer on Monday morning.", "visitedOn": "30 Jul 2026", "visited": true},
+    {"id": "hr-6", "hospitalId": "iqcity", "patient": "Rohan Dey", "rating": 5, "text": "Teaching hospital but consultants still gave enough time.", "visitedOn": "5 Aug 2026", "visited": true},
+    {"id": "hr-7", "hospitalId": "hlg", "patient": "Ankita Paul", "rating": 5, "text": "Gynae OPD was calm and the nurses were kind.", "visitedOn": "14 Aug 2026", "visited": true},
+    {"id": "hr-8", "hospitalId": "gouri", "patient": "Sourav Mondal", "rating": 4, "text": "NICU follow-up was thorough. Signage around Rajbandh could be clearer.", "visitedOn": "28 Jul 2026", "visited": true},
+    {"id": "hr-9", "hospitalId": "anandaloke", "patient": "Nisha Agarwal", "rating": 5, "text": "Endocrine clinic started on time. City Centre location is convenient.", "visitedOn": "11 Aug 2026", "visited": true},
+    {"id": "hr-10", "hospitalId": "vivekananda", "patient": "Dev Chatterjee", "rating": 4, "text": "ENT consult was good. Emergency desk was busy but responsive.", "visitedOn": "16 Aug 2026", "visited": true},
+    {"id": "hr-11", "hospitalId": "dsp", "patient": "Ritu Sharma", "rating": 4, "text": "Low cost township hospital. Expect a queue at morning OPD.", "visitedOn": "3 Aug 2026", "visited": true},
+    {"id": "hr-12", "hospitalId": "pulse", "patient": "Aarav Menon", "rating": 5, "text": "Reports came the same evening. Doctor explained the thyroid numbers well.", "visitedOn": "22 Jul 2026", "visited": true}
+  ],
+  "doctors": [
+    {"id": "dr-rev-1", "doctorId": "dr-banerjee-hw", "patient": "Aarav Menon", "rating": 5, "text": "Dr. Banerjee took a full history and did not rush the ECG review. I left with a clear plan.", "visitedOn": "2 Aug 2026", "visited": true},
+    {"id": "dr-rev-2", "doctorId": "dr-banerjee-hw", "patient": "Priya Banerjee", "rating": 5, "text": "Explained my father's BP medicines in Bengali and English. Very patient.", "visitedOn": "18 Aug 2026", "visited": true},
+    {"id": "dr-rev-3", "doctorId": "dr-banerjee-hw", "patient": "Soham Roy", "rating": 4, "text": "Skilled cardiologist. Slot started 15 minutes late but the consult was worth it.", "visitedOn": "6 Jul 2026", "visited": true},
+    {"id": "dr-rev-4", "doctorId": "dr-roy-disha", "patient": "Meera Shah", "rating": 5, "text": "Cataract counselling was honest about costs and recovery. Surgery went smoothly.", "visitedOn": "9 Aug 2026", "visited": true},
+    {"id": "dr-rev-5", "doctorId": "dr-roy-disha", "patient": "Amitava Sen", "rating": 5, "text": "Retina check was detailed. Staff confirmed I had actually visited before asking for a review.", "visitedOn": "1 Aug 2026", "visited": true},
+    {"id": "dr-rev-6", "doctorId": "dr-sen-city", "patient": "Ishita Rao", "rating": 4, "text": "Good general physician for fever and weakness. Prescribed only what was needed.", "visitedOn": "30 Jul 2026", "visited": true},
+    {"id": "dr-rev-7", "doctorId": "dr-sen-city", "patient": "Rahul Das", "rating": 5, "text": "Listened carefully and followed up on my blood reports the next day.", "visitedOn": "12 Aug 2026", "visited": true},
+    {"id": "dr-rev-8", "doctorId": "dr-chatterjee-mission", "patient": "Kabir Nair", "rating": 5, "text": "Senior cardiologist. Echo was done in the same building after the visit.", "visitedOn": "21 Jul 2026", "visited": true},
+    {"id": "dr-rev-9", "doctorId": "dr-sinha-ananda", "patient": "Nisha Agarwal", "rating": 5, "text": "Thyroid dose adjustment was explained with food timing. Very practical.", "visitedOn": "11 Aug 2026", "visited": true},
+    {"id": "dr-rev-10", "doctorId": "dr-sinha-ananda", "patient": "Aarav Menon", "rating": 4, "text": "Helpful diabetes review. Diet sheet was easy to follow in a Durgapur kitchen.", "visitedOn": "22 Jul 2026", "visited": true},
+    {"id": "dr-rev-11", "doctorId": "dr-mitra-hlg", "patient": "Ankita Paul", "rating": 5, "text": "Antenatal visit felt unhurried. Answered every family question.", "visitedOn": "14 Aug 2026", "visited": true},
+    {"id": "dr-rev-12", "doctorId": "dr-bose-hlg", "patient": "Dev Chatterjee", "rating": 4, "text": "Acne treatment is working. Evening slot was convenient after office.", "visitedOn": "8 Aug 2026", "visited": true},
+    {"id": "dr-rev-13", "doctorId": "dr-ray-vivek", "patient": "Pooja Iyer", "rating": 5, "text": "Felt heard in the psychiatry clinic. Follow-up plan was realistic.", "visitedOn": "4 Aug 2026", "visited": true},
+    {"id": "dr-rev-14", "doctorId": "dr-naskar-vivek", "patient": "Dev Chatterjee", "rating": 4, "text": "Sinus rinse technique was demonstrated. Symptoms improved in a week.", "visitedOn": "16 Aug 2026", "visited": true},
+    {"id": "dr-rev-15", "doctorId": "dr-iqbal-iq", "patient": "Rohan Dey", "rating": 5, "text": "Migraine plan reduced my attacks. MRI was coordinated on campus.", "visitedOn": "5 Aug 2026", "visited": true},
+    {"id": "dr-rev-16", "doctorId": "dr-chakraborty-gouri", "patient": "Sourav Mondal", "rating": 5, "text": "Our preterm baby’s follow-up was meticulous. Grateful for the NICU team.", "visitedOn": "28 Jul 2026", "visited": true},
+    {"id": "dr-rev-17", "doctorId": "dr-lahiri-pulse", "patient": "Aarav Menon", "rating": 5, "text": "Went through every lab line. Did not upsell extra tests.", "visitedOn": "22 Jul 2026", "visited": true},
+    {"id": "dr-rev-18", "doctorId": "dr-mukherjee-hw", "patient": "Farhan Ali", "rating": 4, "text": "Knee injection was explained first. Physiotherapy referral was useful.", "visitedOn": "19 Jul 2026", "visited": true},
+    {"id": "dr-rev-19", "doctorId": "dr-ghosh-city", "patient": "Meera Shah", "rating": 5, "text": "Vaccination for my son was gentle. Waiting room is child-friendly.", "visitedOn": "25 Jul 2026", "visited": true},
+    {"id": "dr-rev-20", "doctorId": "dr-patra-iq", "patient": "Kabir Nair", "rating": 4, "text": "Fracture follow-up x-ray was same day. Cast advice was clear.", "visitedOn": "10 Jul 2026", "visited": true}
+  ]
+}
